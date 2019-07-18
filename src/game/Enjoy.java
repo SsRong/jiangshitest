@@ -3,7 +3,7 @@ package game;
 public class Enjoy {
 
 	public static void main(String[] args) {
-		System.out.print("Have fun!");
+		System.out.print("Have fun! //this is a conflict");
 
 	}
 

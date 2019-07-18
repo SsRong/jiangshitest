@@ -4,7 +4,7 @@ public class Enjoy {
 
 	public static void main(String[] args) {
 		System.out.print("Have fun! //this is a conflict");
-		int a;
+		System.out.println("conflict done");
 	}
 
 }
